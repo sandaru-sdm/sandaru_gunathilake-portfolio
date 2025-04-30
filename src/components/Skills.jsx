@@ -29,7 +29,7 @@ const Skills = () => {
   }, []);
 
   return (
-    <section id="skills" className="skills py-5 bg-light vh-100 justify-content-center align-items-center d-flex">
+    <section id="skills" className="skills py-5 bg-light justify-content-center align-items-center d-flex">
       <div className="container py-5">
         <div className="row">
           <div className="col-12 text-center mb-5">

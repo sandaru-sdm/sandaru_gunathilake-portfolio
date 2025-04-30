@@ -3,7 +3,7 @@ import portfolioData from "../data/portfolioData";
 
 const About = () => {
   return (
-    <section id="about" className="about py-5 vh-100">
+    <section id="about" className="about py-5">
       <div className="container py-5">
         <div className="row">
           <div className="col-12 text-center mb-5">

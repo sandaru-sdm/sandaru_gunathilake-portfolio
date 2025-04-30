@@ -5,7 +5,7 @@ const Projects = () => {
   const [selectedProject, setSelectedProject] = useState(null);
 
   return (
-    <section id="projects" className="projects py-5 d-flex justify-content-center align-items-center vh-100">
+    <section id="projects" className="projects py-5 d-flex justify-content-center align-items-center">
       <div className="container py-5">
         <div className="row">
           <div className="col-12 text-center mb-5">

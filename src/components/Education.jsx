@@ -3,7 +3,7 @@ import portfolioData from '../data/portfolioData';
 
 const Education = () => {
   return (
-    <section id="education" className="education py-5 bg-light d-flex justify-content-center align-items-center vh-100">
+    <section id="education" className="education py-5 bg-light d-flex justify-content-center align-items-center">
       <div className="container py-5">
         <div className="row">
           <div className="col-12 text-center mb-5">

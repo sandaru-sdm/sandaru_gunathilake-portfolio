@@ -5,7 +5,7 @@ const Contact = () => {
   return (
     <section
       id="contact"
-      className="contact py-5 d-flex justify-content-center align-items-center vh-100"
+      className="contact py-5 d-flex justify-content-center align-items-center"
     >
       <div className="container py-5">
         <div className="row">
