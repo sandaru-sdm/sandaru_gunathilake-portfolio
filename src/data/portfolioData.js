@@ -3,6 +3,7 @@ import profileImage2 from "../assets/profile2.jpg";
 import resume from "../assets/resume.pdf";
 import project1 from "../assets/Project1.png";
 import project2 from "../assets/Project2.png";
+import project3 from "../assets/Project3.png";
 import iicLogo from "../assets/IIC_Logo.png";
 
 const portfolioData = {
@@ -51,6 +52,21 @@ const portfolioData = {
       ],
       demoLink: "#",
       githubLink: "https://github.com/sandaru-sdm/invoicing",
+    },
+    {
+      id: 3,
+      title: "Creative Creations Landing Page",
+      description:
+        "A responsive landing page for a local design agency, showcasing their services and portfolio, built with HTML, CSS, JavaScript, and Bootstrap.",
+      image: project3,
+      technologies: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+      ],
+      demoLink: "https://sandaru-sdm.github.io/CreativeCreationsLandingPage/",
+      githubLink: "https://github.com/sandaru-sdm/CreativeCreationsLandingPage",
     },
   ],
   experience: [
