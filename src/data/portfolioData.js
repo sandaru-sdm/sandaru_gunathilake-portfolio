@@ -4,6 +4,7 @@ import resume from "../assets/resume.pdf";
 import project1 from "../assets/Project1.png";
 import project2 from "../assets/Project2.png";
 import project3 from "../assets/Project3.png";
+import project4 from "../assets/ScoopsDelight.png";
 import iicLogo from "../assets/IIC_Logo.png";
 
 const portfolioData = {
@@ -67,6 +68,21 @@ const portfolioData = {
       ],
       demoLink: "https://sandaru-sdm.github.io/CreativeCreationsLandingPage/",
       githubLink: "https://github.com/sandaru-sdm/CreativeCreationsLandingPage",
+    },
+    {
+      id: 4,
+      title: "Scoops Delight Landing Page",
+      description:
+        "A visually appealing and responsive landing page for an ice cream shop, highlighting their delicious flavors, special offers, and contact information. Built with HTML, CSS, JavaScript, and Bootstrap for a modern and engaging user experience.",
+      image: project4,
+      technologies: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+      ],
+      demoLink: "https://sandaru-sdm.github.io/ScoopsDelight/",
+      githubLink: "https://github.com/sandaru-sdm/ScoopsDelight",
     },
   ],
   experience: [
