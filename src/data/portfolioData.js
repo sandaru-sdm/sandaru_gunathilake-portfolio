@@ -6,6 +6,7 @@ import project2 from "../assets/Project2.png";
 import project3 from "../assets/Project3.png";
 import project4 from "../assets/ScoopsDelight.png";
 import iicLogo from "../assets/IIC_Logo.png";
+import project5 from "../assets/PrimeState.png";
 
 const portfolioData = {
   about: {
@@ -83,7 +84,22 @@ const portfolioData = {
       ],
       demoLink: "https://sandaru-sdm.github.io/ScoopsDelight/",
       githubLink: "https://github.com/sandaru-sdm/ScoopsDelight",
-    },
+    }, 
+    {
+      id: 5,
+      title: "Prime State Land Sale Landing Page",
+      description:
+        "A modern and responsive landing page designed for Prime State's land sale offerings. The website features detailed property listings, high-quality images, and clear calls-to-action to engage potential buyers. Built with HTML, CSS, JavaScript, and Bootstrap, it ensures a seamless browsing experience across devices and helps users easily find information about available plots, pricing, and contact details.",
+      image: project5,
+      technologies: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+      ],
+      demoLink: "https://sandaru-sdm.github.io/PrimeEstate/",
+      githubLink: "https://github.com/sandaru-sdm/PrimeEstate",
+    }
   ],
   experience: [
     {
