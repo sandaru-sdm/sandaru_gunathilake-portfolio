@@ -7,6 +7,7 @@ import project3 from "../assets/Project3.png";
 import project4 from "../assets/ScoopsDelight.png";
 import iicLogo from "../assets/IIC_Logo.png";
 import project5 from "../assets/PrimeState.png";
+import project6 from "../assets/NewTech.png";
 
 const portfolioData = {
   about: {
@@ -99,6 +100,20 @@ const portfolioData = {
       ],
       demoLink: "https://sandaru-sdm.github.io/PrimeEstate/",
       githubLink: "https://github.com/sandaru-sdm/PrimeEstate",
+    },{
+      id: 6,
+      title: "New Tech E commerce web application frontend",
+      description:
+        "A simple and responsive ecommerce website for NewTech, built with HTML, CSS, and JavaScript. The site allows users to browse and purchase tech items, view product details, and enjoy a smooth shopping experience across all devices.",
+      image: project6,
+      technologies: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+      ],
+      demoLink: "https://sandaru-sdm.github.io/New-Tech/",
+      githubLink: "https://github.com/sandaru-sdm/New-Tech",
     }
   ],
   experience: [
