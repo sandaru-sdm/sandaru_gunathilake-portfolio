@@ -8,6 +8,7 @@ import project4 from "../assets/ScoopsDelight.png";
 import iicLogo from "../assets/IIC_Logo.png";
 import project5 from "../assets/PrimeState.png";
 import project6 from "../assets/NewTech.png";
+import project7 from "../assets/PresentLKAdmin.jpg";
 
 const portfolioData = {
   about: {
@@ -100,7 +101,8 @@ const portfolioData = {
       ],
       demoLink: "https://sandaru-sdm.github.io/PrimeEstate/",
       githubLink: "https://github.com/sandaru-sdm/PrimeEstate",
-    },{
+    },
+    {
       id: 6,
       title: "New Tech E commerce web application frontend",
       description:
@@ -114,6 +116,20 @@ const portfolioData = {
       ],
       demoLink: "https://sandaru-sdm.github.io/New-Tech/",
       githubLink: "https://github.com/sandaru-sdm/New-Tech",
+    },
+    {
+      id: 7,
+      title: "PresentLK Admin E commerce Android application",
+      description:
+        "An Android admin application built with Java and Firebase, designed for managing an e-commerce platform. The app enables administrators to easily publish new products, manage customer accounts, process orders, and handle other essential admin tasks in real time. Leveraging Firebase for authentication and data storage, it provides a secure and efficient way to oversee store operations from any Android device.",
+      image: project7,
+      technologies: [
+        "Android",
+        "Java",
+        "Firebase",
+      ],
+      demoLink: "https://github.com/sandaru-sdm/PresentsLKAdmin-Android",
+      githubLink: "https://github.com/sandaru-sdm/PresentsLKAdmin-Android",
     }
   ],
   experience: [
