@@ -10,6 +10,7 @@ import project5 from "../assets/PrimeState.png";
 import project6 from "../assets/NewTech.png";
 import project7 from "../assets/PresentLKAdmin.jpg";
 import project8 from "../assets/PresentLKUser.jpg";
+import project9 from "../assets/PresentLKPHP.png";
 
 const portfolioData = {
   about: {
@@ -145,6 +146,21 @@ const portfolioData = {
       ],
       demoLink: "https://github.com/sandaru-sdm/PresentsLKUser-Android",
       githubLink: "https://github.com/sandaru-sdm/PresentsLKUser-Android",
+    },
+    {
+      id: 9,
+      title: "PresentLK E commerce application (PHP)",
+      description:
+        "A simple e-commerce web application built with PHP and Bootstrap. Features include product browsing, product cart, checkout, single product view, and secure payments with Stripe, and order verifications via SMTP email.",
+      image: project9,
+      technologies: [
+        "PHP",
+        "Bootstrap",
+        "SMTP",
+        "Stripe",
+      ],
+      demoLink: "https://github.com/sandaru-sdm/PresentsLK",
+      githubLink: "https://github.com/sandaru-sdm/PresentsLK",
     }
   ],
   experience: [
