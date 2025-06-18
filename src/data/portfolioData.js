@@ -11,6 +11,7 @@ import project6 from "../assets/NewTech.png";
 import project7 from "../assets/PresentLKAdmin.jpg";
 import project8 from "../assets/PresentLKUser.jpg";
 import project9 from "../assets/PresentLKPHP.png";
+import project10 from "../assets/Chekin.PNG";
 
 const portfolioData = {
   about: {
@@ -161,6 +162,20 @@ const portfolioData = {
       ],
       demoLink: "https://github.com/sandaru-sdm/PresentsLK",
       githubLink: "https://github.com/sandaru-sdm/PresentsLK",
+    },
+    {
+      id: 10,
+      title: "Hotel Management System",
+      description:
+        "A comprehensive hotel management system developed using Java Swing for the user interface and MySQL for data storage. The application supports system user login, customer registration, check-in, home dashboard, invoice generation, room registration, room service management, and many other essential hotel operations. It streamlines daily hotel tasks, improves efficiency, and provides an intuitive experience for hotel staff.",
+      image: project10,
+      technologies: [
+        "Java",
+        "Swing",
+        "MySQL",
+      ],
+      demoLink: "https://github.com/sandaru-sdm/HotelManagementSystem",
+      githubLink: "https://github.com/sandaru-sdm/HotelManagementSystem",
     }
   ],
   experience: [
