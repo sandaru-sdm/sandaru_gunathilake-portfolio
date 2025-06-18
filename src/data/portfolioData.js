@@ -11,7 +11,7 @@ import project6 from "../assets/NewTech.png";
 import project7 from "../assets/PresentLKAdmin.jpg";
 import project8 from "../assets/PresentLKUser.jpg";
 import project9 from "../assets/PresentLKPHP.png";
-import project10 from "../assets/Chekin.PNG";
+import project10 from "../assets/Checkin.PNG";
 
 const portfolioData = {
   about: {
