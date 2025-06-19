@@ -12,6 +12,7 @@ import project7 from "../assets/PresentLKAdmin.jpg";
 import project8 from "../assets/PresentLKUser.jpg";
 import project9 from "../assets/PresentLKPHP.png";
 import project10 from "../assets/Checkin.PNG";
+import project11 from "../assets/PresentLKJava.png";
 
 const portfolioData = {
   about: {
@@ -176,6 +177,20 @@ const portfolioData = {
       ],
       demoLink: "https://github.com/sandaru-sdm/HotelManagementSystem",
       githubLink: "https://github.com/sandaru-sdm/HotelManagementSystem",
+    }, 
+    {
+      id: 11,
+      title: "PresentLK J2EE E commerce application",
+      description:
+        "A full-featured e-commerce web application built with J2EE, Hibernate, and MySQL. The system includes product listing, single product view, shopping cart, checkout, user authentication, account creation, and an admin panel for managing products and orders. It provides a seamless shopping experience for users and robust management tools for administrators.",
+      image: project11,
+      technologies: [
+        "J2EE",
+        "Hibernate",
+        "MySQL",
+      ],
+      demoLink: "https://github.com/sandaru-sdm/PresentsLK-Java",
+      githubLink: "https://github.com/sandaru-sdm/PresentsLK-Java",
     }
   ],
   experience: [
