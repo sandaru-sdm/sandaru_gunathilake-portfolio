@@ -13,6 +13,7 @@ import project8 from "../assets/PresentLKUser.jpg";
 import project9 from "../assets/PresentLKPHP.png";
 import project10 from "../assets/Checkin.PNG";
 import project11 from "../assets/PresentLKJava.png";
+import project12 from "../assets/JayanthaHardware.png";
 
 const portfolioData = {
   about: {
@@ -191,7 +192,21 @@ const portfolioData = {
       ],
       demoLink: "https://github.com/sandaru-sdm/PresentsLK-Java",
       githubLink: "https://github.com/sandaru-sdm/PresentsLK-Java",
-    }
+    },
+    {
+      id: 12,
+      title: "POS System for Jayantha Hardware",
+      description:
+        "A Point of Sale (POS) system developed for Jayantha Hardware using Java Swing for the desktop interface and MySQL for backend data management. The application streamlines sales transactions, inventory tracking, and customer management. Key features include product catalog management, real-time stock updates, and invoice generation. The intuitive interface allows staff to quickly process sales and manage daily operations efficiently, while MySQL ensures reliable and secure data storage.",
+      image: project12,
+      technologies: [
+        "Java",
+        "Swing",
+        "MySQL",
+      ],
+      demoLink: "https://github.com/sandaru-sdm/JayanthaHardware",
+      githubLink: "https://github.com/sandaru-sdm/JayanthaHardware",
+    }, 
   ],
   experience: [
     {
