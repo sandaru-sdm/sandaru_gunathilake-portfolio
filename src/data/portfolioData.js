@@ -14,6 +14,7 @@ import project9 from "../assets/PresentLKPHP.png";
 import project10 from "../assets/Checkin.PNG";
 import project11 from "../assets/PresentLKJava.png";
 import project12 from "../assets/JayanthaHardware.png";
+import project13 from "../assets/mrChef.png";
 
 const portfolioData = {
   about: {
@@ -49,6 +50,16 @@ const portfolioData = {
     },
     {
       id: 2,
+      title: "Mr Chef Restaurant Management System",
+      description:
+        "Mr Chef is a comprehensive restaurant management system developed using Java Swing and MySQL. The application streamlines daily restaurant operations, including order management, table reservations, billing, and inventory tracking. With an intuitive user interface, staff can efficiently handle dine-in and takeout orders, manage menu items, and generate sales reports. The system ensures accurate data handling and helps improve overall service quality and operational efficiency for restaurant staff and management.",
+      image: project13,
+      technologies: ["Java", "Swing", "MySQL"],
+      demoLink: "#",
+      githubLink: "#",
+    },
+    {
+      id: 3,
       title: "Simple Idea Online Invoicing System",
       description:
         "A secure invoicing system with client management, real-time billing, and role-based access, powered by Spring Boot and MySQL.",
@@ -63,150 +74,105 @@ const portfolioData = {
       githubLink: "https://github.com/sandaru-sdm/invoicing",
     },
     {
-      id: 3,
+      id: 4,
       title: "Creative Creations Landing Page",
       description:
         "A responsive landing page for a local design agency, showcasing their services and portfolio, built with HTML, CSS, JavaScript, and Bootstrap.",
       image: project3,
-      technologies: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Bootstrap",
-      ],
+      technologies: ["HTML", "CSS", "JavaScript", "Bootstrap"],
       demoLink: "https://sandaru-sdm.github.io/CreativeCreationsLandingPage/",
       githubLink: "https://github.com/sandaru-sdm/CreativeCreationsLandingPage",
     },
     {
-      id: 4,
+      id: 5,
       title: "Scoops Delight Landing Page",
       description:
         "A visually appealing and responsive landing page for an ice cream shop, highlighting their delicious flavors, special offers, and contact information. Built with HTML, CSS, JavaScript, and Bootstrap for a modern and engaging user experience.",
       image: project4,
-      technologies: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Bootstrap",
-      ],
+      technologies: ["HTML", "CSS", "JavaScript", "Bootstrap"],
       demoLink: "https://sandaru-sdm.github.io/ScoopsDelight/",
       githubLink: "https://github.com/sandaru-sdm/ScoopsDelight",
-    }, 
+    },
     {
-      id: 5,
+      id: 6,
       title: "Prime State Land Sale Landing Page",
       description:
         "A modern and responsive landing page designed for Prime State's land sale offerings. The website features detailed property listings, high-quality images, and clear calls-to-action to engage potential buyers. Built with HTML, CSS, JavaScript, and Bootstrap, it ensures a seamless browsing experience across devices and helps users easily find information about available plots, pricing, and contact details.",
       image: project5,
-      technologies: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Bootstrap",
-      ],
+      technologies: ["HTML", "CSS", "JavaScript", "Bootstrap"],
       demoLink: "https://sandaru-sdm.github.io/PrimeEstate/",
       githubLink: "https://github.com/sandaru-sdm/PrimeEstate",
     },
     {
-      id: 6,
+      id: 7,
       title: "New Tech E commerce web application frontend",
       description:
         "A simple and responsive ecommerce website for NewTech, built with HTML, CSS, and JavaScript. The site allows users to browse and purchase tech items, view product details, and enjoy a smooth shopping experience across all devices.",
       image: project6,
-      technologies: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Bootstrap",
-      ],
+      technologies: ["HTML", "CSS", "JavaScript", "Bootstrap"],
       demoLink: "https://sandaru-sdm.github.io/New-Tech/",
       githubLink: "https://github.com/sandaru-sdm/New-Tech",
     },
     {
-      id: 7,
+      id: 8,
       title: "PresentLK Admin E commerce Android application",
       description:
         "An Android admin application built with Java and Firebase, designed for managing an e-commerce platform. The app enables administrators to easily publish new products, manage customer accounts, process orders, and handle other essential admin tasks in real time. Leveraging Firebase for authentication and data storage, it provides a secure and efficient way to oversee store operations from any Android device.",
       image: project7,
-      technologies: [
-        "Android",
-        "Java",
-        "Firebase",
-      ],
+      technologies: ["Android", "Java", "Firebase"],
       demoLink: "https://github.com/sandaru-sdm/PresentsLKAdmin-Android",
       githubLink: "https://github.com/sandaru-sdm/PresentsLKAdmin-Android",
     },
     {
-      id: 8,
+      id: 9,
       title: "PresentLK User E commerce Android application",
       description:
         "An Android User application built with Java and Firebase, designed for purchase products. The app enables users to easily buy products, manage their account, manage their orders, and handle other essential user tasks in real time. Leveraging Firebase for authentication and data storage, it provides a secure and efficient way to oversee store operations from any Android device.",
       image: project8,
-      technologies: [
-        "Android",
-        "Java",
-        "Firebase",
-      ],
+      technologies: ["Android", "Java", "Firebase"],
       demoLink: "https://github.com/sandaru-sdm/PresentsLKUser-Android",
       githubLink: "https://github.com/sandaru-sdm/PresentsLKUser-Android",
     },
     {
-      id: 9,
+      id: 10,
       title: "PresentLK E commerce application (PHP)",
       description:
         "A simple e-commerce web application built with PHP and Bootstrap. Features include product browsing, product cart, checkout, single product view, and secure payments with Stripe, and order verifications via SMTP email.",
       image: project9,
-      technologies: [
-        "PHP",
-        "Bootstrap",
-        "SMTP",
-        "Stripe",
-      ],
+      technologies: ["PHP", "Bootstrap", "SMTP", "Stripe"],
       demoLink: "https://github.com/sandaru-sdm/PresentsLK",
       githubLink: "https://github.com/sandaru-sdm/PresentsLK",
     },
     {
-      id: 10,
+      id: 11,
       title: "Hotel Management System",
       description:
         "A comprehensive hotel management system developed using Java Swing for the user interface and MySQL for data storage. The application supports system user login, customer registration, check-in, home dashboard, invoice generation, room registration, room service management, and many other essential hotel operations. It streamlines daily hotel tasks, improves efficiency, and provides an intuitive experience for hotel staff.",
       image: project10,
-      technologies: [
-        "Java",
-        "Swing",
-        "MySQL",
-      ],
+      technologies: ["Java", "Swing", "MySQL"],
       demoLink: "https://github.com/sandaru-sdm/HotelManagementSystem",
       githubLink: "https://github.com/sandaru-sdm/HotelManagementSystem",
-    }, 
+    },
     {
-      id: 11,
+      id: 12,
       title: "PresentLK J2EE E commerce application",
       description:
         "A full-featured e-commerce web application built with J2EE, Hibernate, and MySQL. The system includes product listing, single product view, shopping cart, checkout, user authentication, account creation, and an admin panel for managing products and orders. It provides a seamless shopping experience for users and robust management tools for administrators.",
       image: project11,
-      technologies: [
-        "J2EE",
-        "Hibernate",
-        "MySQL",
-      ],
+      technologies: ["J2EE", "Hibernate", "MySQL"],
       demoLink: "https://github.com/sandaru-sdm/PresentsLK-Java",
       githubLink: "https://github.com/sandaru-sdm/PresentsLK-Java",
     },
     {
-      id: 12,
+      id: 13,
       title: "POS System for Jayantha Hardware",
       description:
         "A Point of Sale (POS) system developed for Jayantha Hardware using Java Swing for the desktop interface and MySQL for backend data management. The application streamlines sales transactions, inventory tracking, and customer management. Key features include product catalog management, real-time stock updates, and invoice generation. The intuitive interface allows staff to quickly process sales and manage daily operations efficiently, while MySQL ensures reliable and secure data storage.",
       image: project12,
-      technologies: [
-        "Java",
-        "Swing",
-        "MySQL",
-      ],
+      technologies: ["Java", "Swing", "MySQL"],
       demoLink: "https://github.com/sandaru-sdm/JayanthaHardware",
       githubLink: "https://github.com/sandaru-sdm/JayanthaHardware",
-    }, 
+    },
   ],
   experience: [
     {
