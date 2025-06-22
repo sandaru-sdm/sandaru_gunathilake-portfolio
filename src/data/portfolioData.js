@@ -202,6 +202,19 @@ const portfolioData = {
         "Delivered the project on time with positive client feedback",
       ],
     },
+    {
+      id: 3,
+      company: "Megha Property Sales Web Application (Freelance)",
+      position: "Full Stack Developer",
+      period: "2025 March - Present",
+      description:
+        "A full stack invoicing system with a Spring Boot backend and React frontend. Features include secure JWT authentication, role-based login, and robust user management. The backend uses Spring Security for authentication and authorization, while the frontend provides a modern, responsive UI for users and admins. In frontend its mainly focused on mobile view.",
+      achievements: [
+        "Developed and deployed a secure, full-stack invoicing system using Spring Boot for the backend and React for the frontend, incorporating JWT authentication and role-based access control for enhanced security.",
+        "Engineered a robust user management system within the application, leveraging Spring Security for comprehensive authentication and authorization, ensuring data integrity and secure access for various user roles.",
+        "Designed and implemented a modern, responsive user interface with a strong focus on mobile-first design for optimal usability across devices, significantly improving the user experience for both administrators and regular users.",
+      ],
+    },
   ],
 
   education: [
