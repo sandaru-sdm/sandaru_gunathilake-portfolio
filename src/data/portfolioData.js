@@ -206,13 +206,27 @@ const portfolioData = {
       id: 3,
       company: "Megha Property Sales Web Application (Freelance)",
       position: "Full Stack Developer",
-      period: "2025 March - Present",
+      period: "2025 April - Present",
       description:
         "A full stack invoicing system with a Spring Boot backend and React frontend. Features include secure JWT authentication, role-based login, and robust user management. The backend uses Spring Security for authentication and authorization, while the frontend provides a modern, responsive UI for users and admins. In frontend its mainly focused on mobile view.",
       achievements: [
         "Developed and deployed a secure, full-stack invoicing system using Spring Boot for the backend and React for the frontend, incorporating JWT authentication and role-based access control for enhanced security.",
         "Engineered a robust user management system within the application, leveraging Spring Security for comprehensive authentication and authorization, ensuring data integrity and secure access for various user roles.",
         "Designed and implemented a modern, responsive user interface with a strong focus on mobile-first design for optimal usability across devices, significantly improving the user experience for both administrators and regular users.",
+      ],
+    },
+    {
+      id: 4,
+      company: "Student & Teachers Management System (Freelance)",
+      position: "Full Stack Developer",
+      period: "2025 March",
+      description:
+        "A standalone desktop application developed using Java Swing and MySQL for managing students and teachers in an educational institute. The system supports student and teacher registration, updates, and the generation of reports using JasperReports. The application focuses on efficient data handling and user-friendly form-based interfaces tailored for administrative staff.",
+      achievements: [
+        "Designed and implemented a complete desktop-based student and teacher management system using Java Swing and MySQL, streamlining data entry, updates, and retrieval processes.",
+        "Integrated JasperReports for automated generation of professional reports related to student registrations enhancing administrative efficiency.",
+        "Ensured reliable database operations through optimized SQL queries and robust exception handling, maintaining data accuracy and consistency.",
+        "Delivered a clean, responsive layout with intuitive navigation and validation mechanisms, resulting in improved user satisfaction and fewer input errors.",
       ],
     },
   ],
