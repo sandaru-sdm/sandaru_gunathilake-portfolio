@@ -229,6 +229,21 @@ const portfolioData = {
         "Delivered a clean, responsive layout with intuitive navigation and validation mechanisms, resulting in improved user satisfaction and fewer input errors.",
       ],
     },
+    {
+      id: 5,
+      company: "Jayantha Hardware POS System (Freelance)",
+      position: "Full Stack Developer",
+      period: "2024 November - 2024 December",
+      description:
+        "A custom-built Point of Sale (POS) desktop application developed using Java Swing and MySQL for Jayantha Hardware. The system supports invoice generation, supplier and customer registration, stock management, and report generation using Jaspersoft Studio.",
+      achievements: [
+        "Developed a comprehensive POS system using Java Swing and MySQL to manage sales, inventory, suppliers, and customers in a hardware store environment.",
+        "Implemented automated invoice generation",
+        "Integrated Jaspersoft Studio for generating professional invoices and sales reports, enabling better business insights and print-ready output.",
+        "Designed user-friendly GUIs for supplier and customer registration, ensuring efficient data entry and validation.",
+        "Optimized SQL queries and implemented transaction management to maintain data integrity across sales and inventory operations.",
+      ],
+    },
   ],
 
   education: [
