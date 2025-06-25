@@ -251,7 +251,7 @@ const portfolioData = {
       id: 1,
       degree: "Bachelor of Engineering in Software Engineering",
       institution: "IIC University of Cambodia",
-      year: "2021 - Expected May 2025",
+      year: "2021 - Expected 2025",
       description:
         "Currently pursuing a Bachelor's degree with a strong foundation in software engineering principles, web development, and data structures.",
       courses: [
@@ -262,7 +262,6 @@ const portfolioData = {
       ],
       achievements: [
         "Final Year Project: E-Commerce Web Application using pure Java EE",
-        "Participated in various hackathons and coding competitions",
       ],
       logo: iicLogo,
     },
