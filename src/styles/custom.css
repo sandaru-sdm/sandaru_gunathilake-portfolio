@@ -93,6 +93,12 @@ html {
     object-fit: cover;
     transition: transform 0.5s ease;
   }
+
+    .certificate-image {
+    height: 300px;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+  }
   
   .project-card:hover .project-image {
     transform: scale(1.05);

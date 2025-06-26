@@ -15,6 +15,7 @@ import project10 from "../assets/Checkin.PNG";
 import project11 from "../assets/PresentLKJava.png";
 import project12 from "../assets/JayanthaHardware.png";
 import project13 from "../assets/mrChef.png";
+import certificate1 from "../assets/certificate1.png";
 
 const portfolioData = {
   about: {
@@ -36,6 +37,16 @@ const portfolioData = {
     { name: "Bootstrap", percentage: 90 },
     { name: "Git", percentage: 75 },
     { name: "Responsive Design", percentage: 85 },
+  ],
+  certificates: [
+    {
+      id: 1,
+      title: "Responsive Web Design",
+      description: "The freeCodeCamp Responsive Web Design certificate covers the fundamentals of HTML5 and CSS3, including building accessible web pages, using Flexbox and CSS Grid for layouts, and creating responsive designs that work across devices. The curriculum emphasizes best practices for web development and includes hands-on projects to reinforce learning.",
+      image: certificate1,
+      technologies: ["HTML", "CSS", "Responsive Design"],
+      link: "https://www.freecodecamp.org/certification/fcc-d2a98282-8efe-4f24-b395-586d9f2421d5/responsive-web-design",
+    }
   ],
   projects: [
     {
