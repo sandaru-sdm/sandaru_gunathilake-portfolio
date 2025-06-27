@@ -10,6 +10,7 @@ const Certificates = () => {
           <div className="col-12 text-center mb-5">
             <h2 className="section-title position-relative pb-3">My Certificates</h2>
             <div className="title-underline"></div>
+            <p className="text-muted mt-3">Here are my Certifications and Achievements</p>
           </div>
         </div>
         

@@ -28,15 +28,15 @@ const portfolioData = {
       "I'm a passionate developer with expertise in building modern web applications using React and Spring Boot, and various other technologies. With 2+ years of experience, I focus on creating clean, efficient, and user-friendly solutions.",
   },
   skills: [
-    { name: "HTML5/CSS3", percentage: 90 },
+    { name: "HTML5/CSS3", percentage: 75 },
     { name: "JavaScript", percentage: 75 },
     { name: "React", percentage: 75 },
     { name: "Java", percentage: 75 },
     { name: "Spring Boot", percentage: 75 },
     { name: "MySQL", percentage: 75 },
-    { name: "Bootstrap", percentage: 90 },
+    { name: "Bootstrap", percentage: 80 },
     { name: "Git", percentage: 75 },
-    { name: "Responsive Design", percentage: 85 },
+    { name: "Responsive Design", percentage: 75 },
   ],
   certificates: [
     {
