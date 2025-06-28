@@ -273,6 +273,8 @@ const portfolioData = {
       ],
       achievements: [
         "Final Year Project: E-Commerce Web Application using pure Java EE",
+        "Developed mobile applications using Android and React Native",
+        "Integrated payment gateway (Stripe) in a full-stack PHP e-commerce project"
       ],
       logo: iicLogo,
     },
@@ -282,7 +284,7 @@ const portfolioData = {
     email: "maduhansadilshan@gmail.com",
     randomString: "9d8f4b9b3e1986bfe4fb0e7ca6f310b7",
     phone: "+94 70 17 94 934",
-    location: "Pahala Imbulgoda, Gampaha, Sri Lanka",
+    location: "Gampaha, Sri Lanka",
     socialMedia: {
       linkedin: "https://www.linkedin.com/in/sandaru-gunathilake-701a791a0/",
       github: "https://github.com/sandaru-sdm",
