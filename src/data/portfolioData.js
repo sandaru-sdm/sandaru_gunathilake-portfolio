@@ -270,6 +270,8 @@ const portfolioData = {
         "Web Development",
         "Database Systems",
         "Software Engineering",
+        "Mobile Application Development",
+        "Design Patterns",
       ],
       achievements: [
         "Final Year Project: E-Commerce Web Application using pure Java EE",
