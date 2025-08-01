@@ -15,6 +15,7 @@ import project10 from "../assets/Checkin.PNG";
 import project11 from "../assets/PresentLKJava.png";
 import project12 from "../assets/JayanthaHardware.png";
 import project13 from "../assets/mrChef.png";
+import DownloadNotifier from "../assets/DownloadNotifier.png";
 import certificate1 from "../assets/certificate1.png";
 
 const portfolioData = {
@@ -49,6 +50,16 @@ const portfolioData = {
     }
   ],
   projects: [
+    {
+      id: 0,
+      title: "Download Notifier",
+      description:
+        "A simple yet effective desktop application built with Python and Tkinter that monitors specified download directories and notifies you with an alarm sound and a pop-up message when a new file finishes downloading. It features system tray integration for background operation, a customizable UI with light/dark themes, and a 'Stop Alarm' button.",
+      image: DownloadNotifier,
+      technologies: ["Python", "Tkinter"],
+      demoLink: "#",
+      githubLink: "https://github.com/sandaru-sdm/DownloadNotifier",
+    },
     {
       id: 1,
       title: "Simple Idea Graphic Design's Landing Page",

@@ -26,7 +26,7 @@ const Projects = () => {
               <div className="card project-card h-100 shadow-sm">
                 <img 
                   src={project.image} 
-                  className="card-img-top project-image" 
+                  className="card-img-top project-image " 
                   alt={project.title} 
                 />
                 <div className="card-body">
@@ -83,15 +83,15 @@ const Projects = () => {
                     <h5 className="modal-title">{selectedProject.title}</h5>
                     <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                   </div>
-                  <div className="modal-body">
+                  <div className="modal-body text-center">
                     <img 
                       src={selectedProject.image} 
-                      className="img-fluid rounded mb-4" 
+                      className="img-fluid rounded mb-4 " 
                       alt={selectedProject.title} 
                     />
-                    <h6>Description</h6>
-                    <p>{selectedProject.description}</p>
-                    <h6>Technologies Used</h6>
+                    <h6 className='fw-bold text-start'>Description</h6>
+                    <p className='text-start'>{selectedProject.description}</p>
+                    <h6 className='text-start fw-bold'>Technologies Used</h6>
                     <div className="d-flex flex-wrap gap-2 mb-3">
                       {selectedProject.technologies.map((tech, index) => (
                         <span key={index} className="badge bg-primary">{tech}</span>
