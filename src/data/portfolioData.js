@@ -16,6 +16,7 @@ import project11 from "../assets/PresentLKJava.png";
 import project12 from "../assets/JayanthaHardware.png";
 import project13 from "../assets/mrChef.png";
 import DownloadNotifier from "../assets/DownloadNotifier.png";
+import ChamAdvertising from "../assets/ChamAdvertising.png";
 import certificate1 from "../assets/certificate1.png";
 
 const portfolioData = {
@@ -59,6 +60,16 @@ const portfolioData = {
       technologies: ["Python", "Tkinter"],
       demoLink: "#",
       githubLink: "https://github.com/sandaru-sdm/DownloadNotifier",
+    },
+    {
+      id: 0.5,
+      title: "Cham Advertising Landing Page",
+      description:
+        "A modern and visually engaging landing page designed for Cham Advertising. Built with HTML, CSS, JavaScript, and Bootstrap, this page highlights the company's advertising services, portfolio, and contact information. The layout is fully responsive, ensuring a seamless experience across devices. Interactive elements and smooth scrolling enhance user engagement, while clear calls-to-action guide visitors to connect with the business.",
+      image: ChamAdvertising,
+      technologies: ["HTML", "CSS", "JavaScript", "Bootstrap"],
+      demoLink: "https://sandaru-sdm.github.io/ChamAdvertising/",
+      githubLink: "https://github.com/sandaru-sdm/ChamAdvertising",
     },
     {
       id: 1,
